@@ -1,0 +1,7 @@
+blank_issues_enabled: true
+contact_links:
+  - name: I need help with Gramine usage 
+    url: https://github.com/gramineproject/gramine/discussions
+    about: Please open a discussion thread.
+  - name: Report a security vulnerability
+    url: mailto:security@gramineproject.io

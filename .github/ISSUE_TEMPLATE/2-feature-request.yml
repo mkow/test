@@ -1,0 +1,16 @@
+name: Feature request
+body:
+  - type: textarea
+    attributes:
+      label: Description of the feature
+      description: |
+        Please be precise and concise.
+      required: true
+  - type: textarea
+    attributes:
+      label: Why Gramine should implement it?
+      description: |
+        Features introduce complexity and add maintenance cost. Please ensure that this cost is
+        justified.
+      required: true
+
